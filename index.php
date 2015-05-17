@@ -259,7 +259,7 @@
             </div>
             <div content="ui-grid-solo" data-theme="<?php echo $theme ?>">
                 <div class="ui-block-a">
-                    <h3 class="head-two">501-758-7867</h3>
+
                     <ul>
                         <li>Computerized Gated Access</li>
                         <li>Moving & Storage Supplies</li>
