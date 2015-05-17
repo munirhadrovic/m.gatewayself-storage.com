@@ -1149,7 +1149,7 @@ html .ui-panel-page-container-b {
 html .ui-bar-b a,
 html .ui-body-b a,
 html body .ui-group-theme-b a {
-	color: #777777 /*{b-link-color}*/;
+	color: #FFFFFF /*{b-link-color}*/;
 	font-weight: normal;
 }
 .ui-page-theme-b a:visited,
