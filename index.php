@@ -128,7 +128,7 @@
 			  	<div class="callbacks_container">
 				    <ul class="rslides" id="slider4">
 				      <li>
-				        <img src="img/slider-images/4slide.jpg" alt="">
+				        <img src="img/slider-images/3slide.jpg" alt="">
 				        <!-- <p class="caption">This is a caption</p> -->
 				      </li>
 				      <li>
@@ -136,7 +136,7 @@
 				        <!-- <p class="caption">This is another caption</p> -->
 				      </li>
 				      <li>
-				        <img src="img/slider-images/3slide.jpg" alt="">
+				        <img src="img/slider-images/4slide.jpg" alt="">
 				        <!-- <p class="caption">The third caption</p> -->
 				      </li>
                         <li>
