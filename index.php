@@ -128,11 +128,11 @@
 			  	<div class="callbacks_container">
 				    <ul class="rslides" id="slider4">
 				      <li>
-				        <img src="img/slider-images/1slide.jpg" alt="">
+				        <img src="img/slider-images/4slide.jpg" alt="">
 				        <!-- <p class="caption">This is a caption</p> -->
 				      </li>
 				      <li>
-				        <img src="img/slider-images/2slide.jpg" alt="">
+				        <img src="img/slider-images/1slide.jpg" alt="">
 				        <!-- <p class="caption">This is another caption</p> -->
 				      </li>
 				      <li>
@@ -140,7 +140,7 @@
 				        <!-- <p class="caption">The third caption</p> -->
 				      </li>
                         <li>
-                            <img src="img/slider-images/4slide.jpg" alt="">
+                            <img src="img/slider-images/2slide.jpg" alt="">
                             <!-- <p class="caption">This is a caption</p> -->
                         </li
 				    </ul>
@@ -246,7 +246,7 @@
                 <div class="ui-block-a">
                     <h2 class="head-two">FREE Moving Truck</h2>
                     <img src="img/web-design/grid2.jpg" alt="solo-image2" style="margin-left: 20px;"/>
-                    <p class="p-description">Gateway Self Storage offers a FREE Move-In Truck and lock for every new tentant that signs a lease.</p>
+                    <p class="p-description">Gateway Self Storage offers a FREE Move-In Truck and lock for every new tenant that signs a lease.</p>
                 </div>
             </div>
 
@@ -254,7 +254,7 @@
                 <div class="ui-block-a">
                     <h2 class="head-two">Tour Our Facilities</h2>
                     <img src="img/web-design/grid3.jpg" alt="solo-image3" style="margin-left: 20px;"/>
-                    <p class="p-description">Tour our facilities and take a look around the complex to see the many features and benefits that Gateway Self Storage has to offer. <a href="#online-tour" style="font-weight: bold ;">Take a Toor</a> </p>
+                    <p class="p-description">Tour our facilities and take a look around the complex to see the many features and benefits that Gateway Self Storage has to offer. <a href="#online-tour" style="font-weight: bold ;">Take a Tour</a> </p>
                 </div>
             </div>
             <div content="ui-grid-solo" data-theme="<?php echo $theme ?>">
