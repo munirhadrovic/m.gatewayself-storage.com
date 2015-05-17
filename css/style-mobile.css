@@ -288,6 +288,7 @@ input#contact-submit-dugme {
     text-align: center;
     color: #FFFFFF;
     border: 2px ridge #777;
+    background-color: rgb(255, 77, 0);
 }
 .h-description span {
     text-align: right;
