@@ -237,7 +237,7 @@
             <div content="ui-grid-solo" data-theme="<?php echo $theme ?>">
                 <div class="ui-block-a">
                     <h2 class="head-two">State-of-the-Art Security</h2>
-                    <img src="img/web-design/grid1.jpg" alt="solo-image1" style="margin-left: 20px;"/>
+                    <img src="img/web-design/grid1.jpg" alt="solo-image1" class="img-prop"/>
                     <p class="p-description">We offer State-of-the-Art Security features including Individual Door Alarms, Electronic Gate access with individual security code, and 24/Hour access availability.</p>
                  </div>
             </div>
@@ -245,7 +245,7 @@
             <div content="ui-grid-solo" data-theme="<?php echo $theme ?>">
                 <div class="ui-block-a">
                     <h2 class="head-two">FREE Moving Truck</h2>
-                    <img src="img/web-design/grid2.jpg" alt="solo-image2" style="margin-left: 20px;"/>
+                    <img src="img/web-design/grid2.jpg" alt="solo-image2" class="img-prop"/>
                     <p class="p-description">Gateway Self Storage offers a FREE Move-In Truck and lock for every new tenant that signs a lease.</p>
                 </div>
             </div>
@@ -253,7 +253,7 @@
             <div content="ui-grid-solo" data-theme="<?php echo $theme ?>">
                 <div class="ui-block-a">
                     <h2 class="head-two">Tour Our Facilities</h2>
-                    <img src="img/web-design/grid3.jpg" alt="solo-image3" style="margin-left: 20px;"/>
+                    <img src="img/web-design/grid3.jpg" alt="solo-image3" class="img-prop"/>
                     <p class="p-description">Tour our facilities and take a look around the complex to see the many features and benefits that Gateway Self Storage has to offer. <a href="#online-tour" style="font-weight: bold ;">Take a Tour</a> </p>
                 </div>
             </div>
