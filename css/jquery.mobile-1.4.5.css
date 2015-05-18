@@ -1149,14 +1149,14 @@ html .ui-panel-page-container-b {
 html .ui-bar-b a,
 html .ui-body-b a,
 html body .ui-group-theme-b a {
-	color: #777777 /*{b-link-color}*/;
+	color: #FFFFFF /*{b-link-color}*/;
 	font-weight: normal;
 }
 .ui-page-theme-b a:visited,
 html .ui-bar-b a:visited,
 html .ui-body-b a:visited,
 html body .ui-group-theme-b a:visited {
-    color: #777777 /*{b-link-visited}*/;
+    color: #FFFFFF /*{b-link-visited}*/;
 }
 .ui-page-theme-b a:hover,
 html .ui-bar-b a:hover,
@@ -1193,7 +1193,7 @@ html .ui-bar-b .ui-btn:hover,
 html .ui-body-b .ui-btn:hover,
 html body .ui-group-theme-b .ui-btn:hover,
 html head + body .ui-btn.ui-btn-b:hover {
-	background-color: 			#5d9e79 /*{b-bhover-background-color}*/;
+	background-color: 			#777 /*{b-bhover-background-color}*/;
 	border-color:	 		#1f1f1f /*{b-bhover-border}*/;
 	color: 					#fff /*{b-bhover-color}*/;
 	text-shadow: none;
@@ -1204,7 +1204,7 @@ html .ui-bar-b .ui-btn:active,
 html .ui-body-b .ui-btn:active,
 html body .ui-group-theme-b .ui-btn:active,
 html head + body .ui-btn.ui-btn-b:active {
-	background-color: 			#5d9e79 /*{b-bdown-background-color}*/;
+	background-color: 			#777 /*{b-bdown-background-color}*/;
 	border-color:	 		#1f1f1f /*{b-bdown-border}*/;
 	color: 					#fff /*{b-bdown-color}*/;
 	text-shadow: none;
@@ -2595,8 +2595,8 @@ li.ui-block-e {
 [class*="ui-block-"] > button.ui-btn-icon-notext,
 .ui-header [class*="ui-block-"] > button.ui-btn,
 .ui-footer [class*="ui-block-"] > button.ui-btn {
-	margin-right: .025em;
-	margin-left: .025em;
+	margin-right: .3125em;
+	margin-left: .3125em;
 }
 .ui-grid-a > .ui-block-a,
 .ui-grid-a > .ui-block-b {
@@ -2851,8 +2851,7 @@ li.ui-block-e {
 }
 .ui-collapsible-heading .ui-btn {
 	text-align: left;
-	margin-left: .3125em;
-    margin-right: .3125em;
+	margin: 0;
 	border-left-width: 0;
 	border-right-width: 0;
 }
@@ -2894,8 +2893,7 @@ li.ui-block-e {
 	border-right-width: 1px;
 }
 .ui-collapsible-inset .ui-collapsible-content {
-	margin-left: .3125em;
-    margin-right: .3125em;
+	margin: 0;
 }
 .ui-collapsible-content-collapsed {
 	display: none;
